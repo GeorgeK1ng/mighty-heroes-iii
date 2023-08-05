@@ -1,6 +1,6 @@
 {	
 	"name" : "Mighty Heroes III",
-	"description" : "Mighty Heroes III is a inofficial addon for HoMM3 released in germany. It contains over 350 maps.",
+	"description" : "Mighty Heroes III is a inofficial map pack for HoMM3 sold in germany. It contains over 350 maps (english & german). The quality of the maps varies.",
 	"version" : "1.0.0",
 	"author" : "cdv Software Entertainment",
 	"contact" : "",
@@ -15,6 +15,6 @@
 	},
 	"german" : {
 		"name" : "Mighty Heroes III",
-		"description" : "Mighty Heroes III ist ein inoffizielles Addon für HoMM3, welches in Deutschland veröffentlicht wurde. Es enthält über 350 Karten."	
+		"description" : "Mighty Heroes III ist ein inoffizielles Kartenpaket für HoMM3, welches in Deutschland verkauft wurde. Es enthält über 350 Karten (englisch und deutsch). Die Qualität der Karten ist unterschiedlich."	
 	}
 }
