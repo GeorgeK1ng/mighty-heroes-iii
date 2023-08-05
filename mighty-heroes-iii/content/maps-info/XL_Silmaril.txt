@@ -1,0 +1,16 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Silmarillion
+Autor:		Alexander Jovanovich (arigosaki@ptt.yu)
+Größe:		XL
+Unterwelt:	Ja
+Schwierigkeit:	Experte
+Spieler:	8HC
+Kooperation:	Ja
+Gewinn:		Vernichtung aller Gegner
+Verlust:	Verlust aller Helden und Burgen
+
+Beschreibung: 	Morgoth, der dunkle Lord, hat seine böse Hand auf die Welt gelegt. Du mußt
+                ihn stoppen und ihn und seine diabolischen Verbündeten vernichten.
+	 	Du kannst wählen zwischen den Valars, Elfen, Menschen and Zwergen.
+		Basierend auf J.R.R. Tolkien's Werken. Viel Glück!

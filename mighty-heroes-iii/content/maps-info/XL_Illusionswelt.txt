@@ -1,0 +1,14 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Welt der Illusion 2
+Autor:		Svyatoslav  Shevchuk (T.Kirinskaya@beloil.gomel.by)
+Größe:		XL
+Unterwelt:	Ja
+Schwierigkeit:	Experte
+Spieler:	8HC
+Kooperation:	Ja
+Gewinn:		Vernichtung aller Feinde
+Verlust:	Verlust aller Helden und Burgen
+
+Beschreibung: 	Willkommen in der Welt der Illusionen, Fremder. Versuche ein Beherrscher dieser
+                Welt zu werden, aber hüte Dich vor den Illusionen - Du bist nicht allein hier!

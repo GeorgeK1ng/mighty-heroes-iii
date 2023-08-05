@@ -1,0 +1,16 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Schändliche Dinge
+Autor:		Michael Allen (dahrin@inna.net)
+Größe:		XL
+Unterwelt:	Ja
+Schwierigkeit:	Normal
+Spieler:	8HC
+Kooperation:	Ja
+Gewinn:		Vernichtung aller Feinde
+Verlust:	Verlust aller Helden und Burgen
+
+Beschreibung:	Meine Damen und Herren, dies ist, worauf sie schon immmer gewartet haben!
+		Eine absolute Kriegskarte. 8 Spieler (4 Teams je 2). Nimm das Team, was Dir
+		am meisten zusagt. Jede Rasse ist nur einmal vertreten. Dies ist eine klassische
+		Multiplayer-Deathmatch Karte, in der alles erlaubt ist!

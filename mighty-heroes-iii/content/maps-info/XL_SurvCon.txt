@@ -1,0 +1,14 @@
+Map name:  Survive and Conquer (SurvCon)
+Map Maker: : Cattleman (David Wells)
+Email: dawells@bigpond.com
+
+Map Type: XL single player
+
+Description:  The barbarians of the south, the allies of your evil uncle, overun your castle at dawn and kill your family.  You escape with a few retainers through a tunnel which collapses behind you.  Can you survive and build an army to return for your revenge?
+
+Special win: none
+Special loss: none
+special other: none
+
+Play testers: Jennifer Milton <anjen99@worldnet.att.net>
+

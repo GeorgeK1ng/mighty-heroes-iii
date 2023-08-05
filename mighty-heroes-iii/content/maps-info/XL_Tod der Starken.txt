@@ -1,0 +1,38 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Tod der Starken
+Autor:		Tony Distler (adistler@ace.cs.ohiou.edu)
+Größe:		XL
+Unterwelt:	Ja
+Schwierigkeit:	Schwer
+Spieler:	4HC
+Kooperation:	Ja
+Gewinn:		Vernichtung aller Gegner
+Verlust:	Verlust aller Helden und Burgen	
+	
+Beschreibung:	Norden gegen Süden in einer schnell begehbaren Karte mit Grasland und Sumpf,
+                welcher die Teams voneinander trennt. Geh frühzeitig zu Deinen Feinden oder
+                begebe Dich in eines der vier mittleren Gebiete und rüste Dich für eine
+                große Schlacht.
+
+Tips:		
+
+1)
+Im Untergrund ist eine zufällige, neutrale Stadt. Sie ist voll aufgebaut, inkl. des Gralsbautes.
+
+2)
+Stadttor, Dimension Tor, Wasserschreiten, Fliegen, und Boot herbeirufen sind in keiner
+Stadt verfügbar. Alle Artefakte der Stufe 4 sind speziell gesetzt.
+Es gibt keine Drachenhorte, Pyramiden, etc.  Jedoch gibt es eine Spruchrolle mit dem Stadttor-
+spruch in der nördlichen Sumpfgegend. Weiterhin gibt es einige Schiffbrüchige in den Gewässern
+der Sumpgregionen, die mit 50% Wahrscheinlichkeit ein Artefakt besitzen. Die einzige Möglichkeit
+an einen der oben genannten Sprüche zu kommen ist über ein Artefakt.
+
+3)
+In der Mitte der oberen Kartenhälfte liegt einiges an Gold und Schätzen. Dort gibt es auch
+einige Kreaturen des 7. Levels, die eventuell mitkommen.
+
+4)
+Der Gral ist zufällig gesetzt. Es gibt allerdings nur zwei Obelisken in der Karte.
+Beide sind in einer der Sumpfregionen.
+

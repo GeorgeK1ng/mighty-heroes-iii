@@ -1,0 +1,31 @@
+
+German			Info
+-----------------	-----------------------------
+Name der Karte:		Ragnarök 
+Autor:			TheHolyOelk
+eMail des Autors:	TheHolyOelk@kabsi.at
+Kartengrösse:		XL
+Unterwelt:		Ja
+Schwierigkeit:		Hard
+Spieleranzahl:		1 - 8
+Menschliche Sp.:	1 - 8
+Alliiert:		Nein
+Siegesbedingung:	z.B. Besiegen aller Gegner
+Verlustbedingung:	z.B. Verlust aller Städte und Helden
+
+Evtl. kurze Beschreibung:
+--------------------------
+
+Es wird erzählt in der mitte des Gebietes befindet sich eine verschollene Stadt, 
+die Reichtum und Macht bringen soll. Es ist nicht Primähres Ziel sie zu besitzen, 
+doch wer dies tut hat einen gewaltigen Vorteil seinen Gegnern gegenüber..
+
+Besonder Anmerkung:
+-------------------
+
+Zuerst wird es vieleicht vielen Leuten so vorkommen, als währe die Karte unbalanziert, 
+aber der Schein trügt. Jede Rasse hat Vorteile und Nachteile die manchmal Unfair aussehen, 
+aber die Karte ist so angelegt dass sich selbiges wieder AUSGLEICHT.
+
+
+Build time:  6 Moante (OH MEIN GOTT)

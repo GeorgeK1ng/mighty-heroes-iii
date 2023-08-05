@@ -1,0 +1,14 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Komm mit, oder stirb!
+Autor:		Svyatoslav Shevchuk (T.Kirinskaya@beloil.gomel.by)
+Größe:		XL
+Unterwelt:	Ja
+Schwierigkeit:	Schwer
+Spieler:	4HC, 4C
+Kooperation:	Ja
+Gewinn:		Vernichtung aller Feinde
+Verlust:	Verlust aller Helden und Burgen
+
+Beschreibung:	Die dunkle Bedrohung kommt aus der Unterwelt. Nur Du und Deine Allierten 
+		können die bösen Horden vernichten, und den Frieden widerbringen! 

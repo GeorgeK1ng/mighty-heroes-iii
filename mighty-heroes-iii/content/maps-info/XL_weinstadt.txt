@@ -1,0 +1,11 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Weinstadt
+Autor:		unbekannt
+Größe:		XL
+Unterwelt:	J
+Schwierigkeit:	Normal
+Spieler:	3HC / 5C
+Kooperation:	J
+Gewinn:		Vernichtung aller Helden und Burgen
+Verlust:	Verlust aller Helden und Burgen

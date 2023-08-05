@@ -1,0 +1,15 @@
+Info
+-------------------------------------------------------
+Name der Karte:		Hinterhalt
+Autor:			Daniel Fiebrandt
+eMail des Autors:	fiebrandt@debitel.net
+Kartengrösse:		XL
+Unterwelt:		Ja
+Schwierigkeit:		Einfach
+Spieleranzahl:		5
+Menschliche Sp.:	2
+Alliiert:		Nein
+Siegesbedingung:	Besiegen aller Gegner
+Verlustbedingung:	Verlust aller Städte und Helden
+-------------------------------------------------------
+

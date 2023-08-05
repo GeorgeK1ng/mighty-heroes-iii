@@ -1,0 +1,13 @@
+Info
+-----------------------------------------------------------------
+Name der Karte:		Morgath, der Schreckliche
+Autor:			Jochen Borgwardt
+eMail des Autors:	fruchtgigant@t-online.de
+Kartengrösse:		XL
+Unterwelt:		Ja
+Schwierigkeit:		Schwer
+Spieleranzahl:		4
+Menschliche Sp.:	3
+Teams:			Ja
+Siegesbedingung:	Besiegen aller Gegner
+Verlustbedingung:	Zeitlimit

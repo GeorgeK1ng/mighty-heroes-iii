@@ -1,0 +1,18 @@
+
+Map Name: Join or Die
+Map Maker: Svyatoslav Shevchuk
+E-Mail Address: T.Kirinskaya@beloil.gomel.by
+Map Size: XL
+Map Type: Cooperative/Multiplayer/2 level map/4HC,4C only
+Difficulty: Hard
+Language: English
+
+Description: The dark menace proceed from the undeground. Only you and your allies can destroy evil hordes and bring the peace to this land! 
+
+Special Win: NONE
+Special Loss: NONE
+Special Other: NONE
+
+Play-testers: Boris Sivko (may be found at T.Kirinskaya@beloil.gomel.by)
+              Vasiliy Turovsky (No current email)
+              (Myself)

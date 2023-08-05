@@ -1,0 +1,24 @@
+Info
+-----------------	-----------------------------
+Name der Karte:		Eden
+Autor:			Der Doktor
+eMail des Autors:	derdoktor@t-online.de
+Kartengrösse:		XL
+Unterwelt:		Ja
+Schwierigkeit:		Normal
+Spieleranzahl:		8
+Menschliche Sp.:	8
+Alliiert:		Ja
+Siegesbedingung:	Erobern aller Städte und Helden
+Verlustbedingung:	Verlust aller Städte und Helden
+
+Kurze Beschreibung:
+--------------------------
+Der böse Dämon Na'Buun will den Kontinent Eden erobern. Durch eine List gelang es,
+ihn in die Unterwelt, ein riesiges Labyrinth, zu bannen. Doch er wird wieder herauskommen.
+Bis dahin muss sich das Gute entwickeln und aufrüsten, dann hat es vielleicht eine Chance.
+Doch die Bösen möchten dies natürlich verhindern...
+
+--------------------------
+Rückmeldungen bitte an obige eMail-Adresse!
+

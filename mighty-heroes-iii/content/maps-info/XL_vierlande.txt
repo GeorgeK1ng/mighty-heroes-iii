@@ -1,0 +1,11 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Vierlande
+Autor:		Oceanbunny
+Größe:		XL
+Unterwelt:	J
+Schwierigkeit:	Normal
+Spieler:	1HC / 3C
+Kooperation:	-
+Gewinn:		Eroberung einer bestimmten Stadt
+Verlust:	Verlust aller Helden und Burgen
