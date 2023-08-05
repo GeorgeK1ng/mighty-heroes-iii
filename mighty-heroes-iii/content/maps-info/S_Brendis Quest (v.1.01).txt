@@ -1,0 +1,20 @@
+German			Info
+-----------------	-----------------------------
+Name der Karte:		Brendis Quest (v.1.01)
+Autor:			Lord Boukingham
+eMail des Autors:	torstenbrendenahl@berlin.de (nicht Autor)
+Kartengrösse:		S
+Unterwelt:		Ja
+Schwierigkeit:		Experte
+Spieleranzahl:		4
+Menschliche Sp.:	1
+Alliiert:		Nein
+Siegesbedingung:	Besiegen aller Helden, erobern aller Staedte
+Verlustbedingung:	Verlust einer bestimmten Stadt
+
+Kurze Beschreibung:
+
+Brendis Quest (v.1.01)
+Kaum ging Brendy den Weg des Boesen, schon legte sich das Gute mit ihn an. Seine Aufgabe lautet alle Gegner zu besiegen. Verliert er jedoch seine Stadt, dann ist es aus.
+--------------------------
+

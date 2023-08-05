@@ -1,0 +1,10 @@
+Map Name: Island Cell
+Map Creater: Funaz
+
+Spec win: none
+Spec lose:loose a hero Cecil
+Players: 2 (co-op)
+
+Description: Two heros are trapped on an Island, and must battle their way across the entire 
+island searching for the keys to entire the evil Necromancer's Cerlin domain. Destroying 
+Cerlin is the only way to free yourself from the unescapeable island. 

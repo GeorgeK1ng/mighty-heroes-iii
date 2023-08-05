@@ -1,0 +1,11 @@
+Map Name:	A Clash of Kings 1.01 (A Clash of Kings.h3m)
+Map Maker:	Michael Steffensen
+E-Mail Address:	mste@get2net.dk
+
+Description:	King Robert Baratheon is dead, his son Joffrey now sits on the Iron Throne, believing he is the true king!
+		Several other powerful Lords do not agree!
+		In the north Wild Men are massing, and across the sea a Dragon Queen wants vengeance
+
+Play-Testers:	Peter Rasmussen
+		Kim Mørch
+		Nemesis

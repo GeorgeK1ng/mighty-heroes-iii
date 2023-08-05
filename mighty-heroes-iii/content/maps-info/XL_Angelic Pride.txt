@@ -1,0 +1,63 @@
+
+                   HEROES III MAP SUBMISSION
+
+Map Name:	Angelic Pride (ANGELI~1.H3M)
+Map Maker:	Jason Russell
+E-Mail Address:	jrussell@danlon.physics.uwo.ca
+
+Map Type:	Singleplayer [1 Human Only, 3 Computers Only]
+Language:	English
+
+Description:	Angels have left the land! King Graven must learn the reason behind this
+		and acquire at least one angel.
+
+		Tensions mount as Overlords begin to creep into the land.
+
+		Ivor and Caitlin must survive and reach the King!
+
+Special Win:	Acquire at least one Angel
+Special Loss:	Lose the Hero "Ivor"
+
+Special Other:	BUG WARNING! The Loss Condition sometimes changes to "Orrin" for no
+		apparent reason in the middle of the game. (HOMMIII Bug???)
+		
+		Orrin is safely tucked away in a jail at (0,0,0)
+
+		If the Loss Condition does change, remember that it is "Ivor" who cannot
+		die, surrender nor retreat.
+
+Narrative:	Episodes IV, V, VI
+
+		King Graven has returned penniless to his own land. He notices that all
+		the Angels have left for no apparent reason.
+		
+		Meanwhile, the Overlords have been creeping in under the ground and will
+		soon pose a threat. He has sent Caitlin, a good scout, to investigate.
+
+		Now, he awaits the arrival of Caitlin with news of the underground and
+		for Ivor, a Ranger from the South with an important message from his Queen.
+
+		Also, as he waits, King Graven must eliminate a Necromancer problem on 
+		his western and eastern borders...
+		
+
+Play-Testers:	name:  Nereus
+		email: Ancient_Mariner@att.net
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+		This map is set at Impossible, but it IS Possible.
+
+		There are enough resources around to build a good, strong Castle.
+
+		Episode IV: Main Enemy: Red (Goes approx. from Month 1 to 3)
+
+		Episode V:  Main Enemy: Blue (Months 3 to 4)
+
+		Episode IV: Main Enemy: Purple (Months 4 to 6)
+
+		email me for a spoilers.txt file

@@ -1,0 +1,24 @@
+The Duelists maps
+
+The Duelists map is inspired by an HOMM2 map called Destiny. One of the better maps designed by someone for the old Oracle league, it was used quite often in the 2-player matchups. There's been a lot of changes to utilize the many added features of HOMM3. There is for instance a lot more fun adventure map objects to visit, but the map premise is the same: venture out of your homeland, acquire large amounts of power and top level creatures, then try to beat the hell out of your opponent.
+
+The Duelists map is designed for 2 humans. The computer can play either orange or purple. You would play with the AI just to work on your pace and logistics. The design lends itself to play any of the castle types, and also to make all the castles in the player areas random or one type as preferred in some matches. The computer-only blue and teal are in the Orange player's area while green and red are in Purple's area.
+The AI players that start in your territory are just there to occupy the castles and make you work at least a little to get them. In the meantime they'll build a few things for you.
+
+Fly and Dimension Door are not available at any of the castles, although they might be at the Pyramids.
+
+Only the starting Orange and Purple castles have a Tavern. The Barbarian and Fortress castles to the north have their 3 level Mage guilds, Market, 6th & 7th level creature buildings, Town Hall, Valhalla and Cage of the Warlords built, but can't build anything else. The tower castles have their 5 level Mage guilds, the Library, City Hall and the Gremlin Masters Building and are also prevented from additional building.
+
+The Grail is always underground, generally towards the center. 
+
+The Orange and Purple sides are similar but different. The pacing is about the same and neither side has any real edge on location. Each side has a strong wandering, ranged creature group that will join it early in the game. Unless a player is extremely aggressive, you won't see much of each other for 3-4 weeks.
+
+Starting with any town type, you should be able to build your 7th level creature building in the 1st week, although you may not get a Castle or all other creature buildings also. 
+
+The 'Duelists vs. Orange' and 'Duelists vs. Purple' will push the solo player to move quickly. The AI will also likely have at least Solmyr or Deemer as a respectable hero to match up against what you develop. 
+
+Comments are welcome. I'm at:
+
+datarush@attitude.com
+
+Walt Huber aka LBytes, Datarush 

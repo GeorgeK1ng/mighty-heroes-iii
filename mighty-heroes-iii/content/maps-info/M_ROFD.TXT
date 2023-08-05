@@ -1,0 +1,24 @@
+Map:
+Realm of the Destroyer
+
+Author:
+Scott "Sorak" Lufkin
+
+Description:
+A resource heavy map, you have 2 towns (1 random, one not) and are well 
+defended by wandering monsters, so you have some time to develop.  Should
+be some good fights with everyone having so many resources and 2 towns.
+
+Statistics:
+Resource Heavy, 6 players, non -coop (but was designed to be also, just
+select teams from the map secs in the editor and select to taste)
+
+Size: Medium (2 levels), Normal Difficulty
+
+Known bugs:  The last 2 maps I have made (not including this one) have 
+had some areas that you just can't get to, even though map validation 
+doesn't pick it up.  I have fixed those and I believed them to be great 
+maps now!  Enjoy, and if you find any problems just go ahead and fix them
+as you feel necessary.  This map should be really well balanced for all 
+but the Pink unplayable player, who is an optional quest.  (He is the 
+destroyer.)

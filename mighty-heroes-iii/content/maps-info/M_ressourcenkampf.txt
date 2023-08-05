@@ -1,0 +1,11 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Ressourcenkampf
+Autor:		unbekannt
+Größe:		M
+Unterwelt:	J
+Schwierigkeit:	Experte
+Spieler:	1HC / 4C
+Kooperation:	J
+Gewinn:		Alle Minen beflaggen
+Verlust:	Verlust aller Helden und Burgen

@@ -1,0 +1,20 @@
+
+German			Info
+-----------------	-----------------------------
+Name der Karte:		Kampf der Geschlechter
+Autor:			miobas@wtal.de
+eMail des Autors:	Silvana
+Kartengrösse:		L 
+Unterwelt:		Ja
+Schwierigkeit:		Normal
+Spieleranzahl:		2
+Menschliche Sp.:	1 - 2
+Alliiert:		Nein
+Siegesbedingung:	Besiegen des Gegners oder markieren aller Fahnen
+Verlustbedingung:	Verlust aller Städte und Helden
+
+Evtl. kurze Beschreibung:
+--------------------------
+
+Der Name der Karte sagt schon alles... aber bitte nicht ernst nehmen ;-)
+

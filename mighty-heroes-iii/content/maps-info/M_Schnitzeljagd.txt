@@ -1,0 +1,11 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Schnitzeljagd
+Autor:		unbekannt
+Größe:		M
+Unterwelt:	J
+Schwierigkeit:	Normal
+Spieler:	2HC
+Kooperation:	-
+Gewinn:		Gralsgebäude bauen
+Verlust:	Verlust aller Helden und Burgen

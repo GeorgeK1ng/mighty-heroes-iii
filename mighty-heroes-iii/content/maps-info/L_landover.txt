@@ -1,0 +1,23 @@
+
+German			Info
+-----------------	-----------------------------
+Name der Karte:		Landover
+Autor:			Christian Dühl
+eMail des Autors:	duehl@math.uni-hamburg.de
+Kartengrösse:		L
+Unterwelt:		Ja
+Schwierigkeit:		Normal
+Spieleranzahl:		4
+Menschliche Sp.:	2
+Alliiert:		Ja
+Siegesbedingung:	Besiegen aller Gegner
+Verlustbedingung:	Verlust aller Städte und Helden
+
+Evtl. kurze Beschreibung:
+--------------------------
+Ich habe versucht, das Land "Landover" aus dem Buch "Königreich zu verkaufen" von Terry
+Brooks ("Magic Kingdom for Sale - Sold!") zu erzeugen. Das menschliche Team (Ben Holiday
+und Weide) kämpft gegen die Sumpfstadt Eldero und den Drachen (Infernostadt).
+
+Weide startet - vielleicht etwas Überraschend - im tiefen Schlund, da ihr Vater sie aus
+dem Seenland vertrieben hat.

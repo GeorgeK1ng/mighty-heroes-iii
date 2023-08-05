@@ -1,0 +1,17 @@
+
+Map Name:	The Unholy Keep
+Map Maker:	Adam Faryno
+E-Mail Address:	oskar@mirage.com.pl
+
+Map Size:       Small
+Difficulty:     Hard
+Map Type:	Singleplayer 1 Human Only, 2 Computer Only
+Language:	English
+
+Description:	You must defeat the evil Unholy Lord within two months, or all will be lost.
+
+Special Win:	Defeat a specific hero.
+Special Loss:	Time expires
+
+Play-Testers:	Pieniek <pieniekp@polbox.com>
+                Axel <pbsa@gdansk.sprint.pl>

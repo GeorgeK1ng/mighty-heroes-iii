@@ -1,0 +1,37 @@
+         
+
+Map Name:	Chain Lightning (chlight.h3m)
+Map Maker:	Joseph Motz
+E-Mail Address:	jemotz@compuserve.com
+
+Map Type:	Single-player,  1 Human Vs. 1 Computer
+Language:	English
+
+Description:	The powerful Sorceror Keiser has brought a sense of fear
+		to your once placid village.  In order to stop him, you must
+		seek the help of others, gather specific items, and complete
+		various mini-quests along the way.  This map contains
+		numerous events and a detailed storyline. 
+
+Special Win:	NONE
+Special Loss:	NONE
+Special Other:	NONE
+
+Play-Testers:	
+Chris	Serr00@aol.com
+Gwhenwyfar	gwhenwyfar@gmx.de
+Jagan	jagan@powersurfr.com
+Erek	neidigh@ibm.net
+Stefan	S.Bjelkfelt@hem.utfors.se
+Viktor	coyot@pinknet.cz
+Matthew	smith666@cwcom.net
+Archer	archer@get2net.dk
+Al	dexterholland99@hotmail.com
+
+              	
+
+SPOILERS:	WARNING!!!  SPOILER INFORMATION FOLLOWS PROCEED AT YOUR OWN RISK!
+
+
+
+Use Orrin as your main hero to build up 

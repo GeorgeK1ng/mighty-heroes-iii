@@ -1,0 +1,22 @@
+German			Info
+-----------------	-----------------------------
+Name der Karte:		Achtland (v.1.01)
+Autor:			Lord Boukingham
+eMail des Autors:	torstenbrendenahl@berlin.de (nicht Autor)
+Kartengrösse:		XL
+Unterwelt:		Ja
+Schwierigkeit:		Normal
+Spieleranzahl:		8
+Menschliche Sp.:	1 - 8
+Alliiert:		Nein
+Siegesbedingung:	Erobern einer bestimmten Stadt
+Verlustbedingung:	Verlust aller Staedte und Helden
+
+kurze Beschreibung:
+
+Achtland (v.1.01)
+Acht machtsuechtige Koenige im Streit. Jeder will die Oberhand ueber das Ganze Land. Jedoch kann es nur derjenige erreichen, der alle anderen besiegt oder die legendaere Stadt im Zentrum namens Midburg erobert.
+
+Lord Boukingham
+--------------------------------------------------------------------------------------------
+

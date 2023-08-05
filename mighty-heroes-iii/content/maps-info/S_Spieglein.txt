@@ -1,0 +1,11 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Spieglein, Spieglein
+Autor:		unbekannt
+Größe:		S
+Unterwelt:	J
+Schwierigkeit:	Normal
+Spieler:	1HC / 1H
+Kooperation:	-
+Gewinn:		Vernichtung aller Helden und Burgen
+Verlust:	Verlust aller Helden und Burgen

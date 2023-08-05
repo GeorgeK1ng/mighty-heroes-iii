@@ -1,0 +1,16 @@
+
+			Info
+-----------------	-----------------------------
+Name der Karte:		Die ELemente
+Autor:			Silvana
+eMail des Autors:	miobas@wtal.de
+Kartengrösse:		L
+Unterwelt:		Ja
+Schwierigkeit:		Normal
+Spieleranzahl:		2
+Menschliche Sp.:	1
+Alliiert:		Nein
+Siegesbedingung:	Eroberung einer Stadt
+Verlustbedingung:	Verlust aller STädte und Helden
+
+

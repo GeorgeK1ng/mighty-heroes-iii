@@ -1,0 +1,7 @@
+Author name or nickname : Caddaric 
+Map name : Guardian Angel 
+Map description : Two groups seek eternal glory. Who will receive the favour of the sky and
+	will eradicate the malefic forces of the under-ground world ?
+Number of human players : 2 
+Victory conditions : Conquer all 
+Loss conditions : Lose all 

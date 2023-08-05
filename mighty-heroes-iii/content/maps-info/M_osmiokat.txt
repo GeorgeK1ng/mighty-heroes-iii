@@ -1,0 +1,11 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Osmiokat
+Autor:		unbekannt
+Größe:		M
+Unterwelt:	N
+Schwierigkeit:	Normal
+Spieler:	4HC
+Kooperation:	J
+Gewinn:		Vernichtung aller Helden und Burgen
+Verlust:	Verlust aller Helden und Burgen

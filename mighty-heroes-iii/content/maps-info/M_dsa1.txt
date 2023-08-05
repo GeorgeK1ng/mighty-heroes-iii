@@ -1,0 +1,14 @@
+German			Info
+-----------------	-----------------------------
+Name der Karte:		DSA1-Die Schicksalsklinge
+Autor:			Rene
+eMail des Autors:	renehoff@aol.com
+Kartengrösse:		M
+Unterwelt:		Ja
+Schwierigkeit:		Normal
+Spieleranzahl:		2
+Menschliche Sp.:	1
+Alliiert:		Nein
+Siegesbedingung:	Besiegen eines bestimmten Helden
+Verlustbedingung:	Verlust einer bestimmten Stadt
+

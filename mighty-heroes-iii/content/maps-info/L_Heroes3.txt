@@ -1,0 +1,30 @@
+This is a storyline for my Heroes3 Map.
+
+All was peaceful.  Lord Capulet reigned supreme in his homeland. 
+
+Suddenly, the infernal Imps pushed their way to the surface, bringing with them a hatred for the top-siders.  Lord Capulet convened a council of the three neighboring kings.  Lord Wayseefar of Willow Glen attended.  So did Lord Jaundark, to the west, a long time ally.  The Monarch of the Dead, however, did not even send an emmisary. He may be under attack.
+
+Rumors have said that the Infernal beasts have taken refuge on the impassable ridge we know as Dragon's Spine, to the NorthWest.  No living man has been able to cross these mountains, although legend speaks of a great mage who was able to fly over the towering spires to reach a plateau.  This mage never returned, and must surely be dead.
+
+But know all, the Infernal beasts are now forming an army, preparing to spew their vitriol across the fair lands of Erathia.
+
+
+
+Specs:
+
+Author: Chris Mitchell
+Author's e-mail: cmmitch@pacbell.net
+Playtester's e-mail: rogern@inwave.com
+Map Title: Mountains of Despair
+Difficulty: Normal
+Size: Large
+# Players: 1-4
+Victory Conditions: Victory achieved when 5th player's hometown is captured.
+
+Summary:
+Defeat the Inferno who has defiled your land!
+
+NOTE:
+
+In order to solve this scenario, one of your heroes must attain Expert Wisdom.
+Please forward all comments/bug reports to Chris at cmmitch@pacbell.net

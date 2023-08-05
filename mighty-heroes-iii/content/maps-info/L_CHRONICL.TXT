@@ -1,0 +1,174 @@
+
+C H R O N I C L E S    O F    M I D D L E – E A R T H
+
+
+A HoMM3 map by Raolin the Heretic (Joshua Dyal), raolin1@hotmail.com
+
+2HC, 3C
+Large, Cooperative Expert story map.  Player positions are Blue Tower (allied 
+with computer controlled Teal Rampart) or Green Necropolis, allied with Tan 
+Stronghold.
+
+Special Victory Condition:  Defeat the Red Castle town, Minas Anor.
+Special Loss Condition: None
+
+Map Testor:  my unfailing devoted brother Joseph, j-dyal@tamu.edu
+
+--------------------------------------------------------------------------------
+
+
+“It is said that this name was given to him at his birth by Malbeth the Seer, 
+who said to his father:  “Arvedui you shall call him, for he will be the last in 
+Arthedain.  Though a choice will come to the Dunedain, and if they take the one 
+that seems less hopeful, then your son will change his name and become king of a 
+great realm.  If not, then much sorrow and many lives of men shall pass, until 
+the Dunedain arise and are united again.”
+
+“On the death of King Ondoher and his sons, Arvedui of the North-kingdom claimed 
+the crown of Gondor, as the direct descendant of Isildur, and as the husband of 
+Firiel, only surviving child of Ondoher.  The claim was rejected.  In this 
+Pelendur, the Steward of King Ondoher, played the chief part.”
+
+“The crown was claimed by Earnil, the victorious captain; and it was granted to 
+him with the approval of all the Dunedain in Gondor, since he was of the royal 
+house.  He was the son of Siriondil, son of Calimmacil, son of Arciryas, brother 
+of Narmacil II.  Arvedui did not press his claim; for he had neither the power 
+nor the will to oppose the choice of the Dunedain of Gondor; yet the claim was 
+never forgotten by his descendants even when their kingship had passed away.”
+
+“…At last in the autumn of 1973 messages came to Gondor that Arthedain was in 
+great straits, and that the Witch-King was preparing a last stroke against it.  
+Then Earnil sent his son Earnur north with a fleet, as swifty as he could, and 
+with as great strength as he could spare.  Too late.  Before Earnur reached the 
+havens of Lindon, the Witch-King had conquered Arthedain and Arvedui had 
+perished.”
+
+“But when Earnur came to the Grey Havens there was joy and great wonder among 
+both Elves and Men.  So great in draught and so many were his ships that they 
+could scarcely find harbourage, though both the Harlond and the Forlond also 
+were fillled; and from them descended an army of power, with munition and 
+provision for a war of great kings.  Or so it seemed to the people of the north, 
+though this was but a small sending-force of the whole might of Gondor.”
+
+“…The Host of the West came down upon him out of the Hills of Evendim, and there 
+was a great battle on the plain btween Nenuial and the North Downs.  The forces 
+of Angmar were already giving way and retreating towards Fornost when the main 
+body of the horsemen that had passed round the hills came down from the north 
+and scattered them in a great rout.  Then the Witch-King, with all that he could 
+gather from the wreck, fled northwards, seeking his own land of Angmar.  Before 
+he could gain the shelter of Carn Dum the cavalry of Gondor overtook him with 
+Earnur riding at their head.  At the same time a force under Glorfindel the Elf-
+Lord came up out of Rivendell.  Then so utterly was Angmar defeated that not a 
+man nor an orc of that realm remained west of the Misty Mountains.”
+
+“So ended the evil realm of Angmar; and so did Earnur, Captain of Gondor, earn 
+the chief hatred of the Witch-King; but many years were still to pass before 
+that was revealed.” 
+
+--------------------------------------------------------------------------------
+
+These quotes from the Appendix A of the Lord of the Rings set up the map 
+Chronicles of Middle-Earth.  The intrigue and power struggles of dynastic 
+succession in Gondor, the play by the related kings of Arthedain to claim the 
+crown and save the entire race of the Dunedain, and power of Angmar and the 
+Witch-King who brought Arthedain to naught (and even destroyed the kingship of 
+Gondor in just one more generation, even though he was handily defeated in the 
+north) create an aura of tension and battle.
+
+What if Arvedui had the will to press his claim?  Did not Malbeth the Seer 
+prophesy great suffering and peregrinations for the Dunedain if he didn’t?  What 
+if Gondor had gone to war against the north?  What if Arvedui had been able to 
+rally his ailing kingdom against the tide of Angmar?  This is the setting for 
+Chronicles of Middle-Earth.
+
+In this map, you must take the command of Arvedui and his kingdom centered at 
+Annuminas, or the place of the Witch-King and his center at Carn Dum.  
+
+
+Hints: contains very mild spoilers.
+
+Arthedain is allied with the elves of Eriador, specifically the few who lived on 
+the coastal areas of Lindon, and the elves of Rivendell.  In the last great 
+battle against Angmar, Glorfindel of Rivendell proved to be an important 
+lynch-pin in the victory of the Dunedain.  This side has a large area that it 
+controls; nearly all of Eriador between the Blue and Misty Mountains, but much 
+of the land is devoid of friendly troops to recruit into the army.  If you 
+choose to play this side, you must move quickly to build up your forces, 
+eliminate Angmar and its allies and be prepared for the march against Gondor 
+before Gondor moves against you.
+
+Angmar is allied with the wild orc-tribes of the Misty Mountains.  The area they 
+control is much more wild, and it is smaller, but they have access to a 
+veritable horde of warriors to fight in their ranks.  Explore your area quickly 
+and move against Arthedain and Rivendell while they are still moving around 
+picking up resources.  When Gondor moves up north, they might come against you, 
+but more likely they will land on Arthedain’s soil first, either by boat or by 
+spell, so be prepared for that eventuality as well.
+
+Gondor is centered at the great city Minas Anor (renamed Minas Tirith about 50 
+years after these events) at the far Eastern end of the White Mountains.  They 
+control a vast territory, including all the lands west to the sea, and some of 
+the lands to the north as well.  Be careful, because if Gondor moves against 
+either Isengard or Lothlorien, they will have access to either the Fly or 
+Dimension Door spell.  If they move far enough west to claim the resources they 
+nominally control on the coast, they will also find the Fly spell, as well as a 
+boat free for their taking.  This means they will probably soon be swarming over 
+you, although they are not able to move against you until they either get to the 
+boat, or to the spells.  This gives you some time to build your forces, 
+consolidate your power and eliminate your rival team in the north before Gondor 
+comes crashing down on your party, but not much.  With luck, you may actually 
+have accumulated an army capable of defeating King Earnil, his son Earnur and 
+the Steward Pelendur, as well as whatever other captains they may have hired.
+
+Beware as well of the Gondorian spies that lurk about in the north just a few 
+days journey from your own capital.  If you don't eliminate them soon, they will 
+steal valuable resources and artifacts right out from under your nose, as well 
+as alerting Minas Anor of your war-like intentions.  Taking them out should be 
+your first priority.
+
+The Mines of Moria, while deadly and hostile, are probably your best bet when 
+moving against Gondor, unless you can somehow steal Gondor’s boat. When you 
+enter the mines, do so knowing that they are full of traps, and the horror of 
+Durin’s Bane, the Balrog, still awaits you before you can leave! You might want 
+to consider sending an expendable scout hero to clear the way first.
+
+Finally, the game isn’t over until Minas Anor falls, either to Arvedui and his 
+kingdom, or to the Witch-King and his horde.  If Gondor does overcome Lothlorien 
+and Isengard, that may paves the way for a divide and conquer strategy.  If 
+Gondor does concentrate all of its might in Minas Anor, you will be hard-
+pressed to overcome it very quickly, and will need the 7th level creatures of a 
+several castles to take it out.  If you can isolate him in Minas Anor, you can 
+eventually win a war of attrition.  He will always be able to buy all of his 
+troops in his castle, but if you have all the other castles, you’ll be ahead of 
+him.  However, this is the really slow way to win, and it assumes that you have 
+already been able to get rid of all his heroes and leave him with nothing but 
+his castle.  Don’t count on that!
+
+Good luck!  The main premise was to allow you to have a huge computer controlled 
+opponent come rolling out of the south at you.  If played as a multiplayer, 
+almost certainly one of the players will be eliminated long before the game is 
+actually over.  Although it can be a multiplayer, the real reason I created two 
+HC positions was to give you the option of playing either the “good” or the 
+“bad” side, not so you would actually use it as such.
+
+
+MAJOR SPOILERS!!!!!!!!!
+
+When I playtested the map, I put a cartographer right next to my castle so I 
+could see what all the AI opponents, as well as the AI ally, were doing.  It 
+only took about two and a half months for Earnur to come storming my area with 
+the Fly spell, 14 angels, 8 archangels, 5 Ancient Behemoths, and about 35 each 
+of mages and archmages (I’m not sure where he got those, really; they must have 
+joined him for greater glory.)  Don’t waste any time consolidating your power, 
+because you don’t have any time to waste!  Also, get through the mines of Moria 
+as quickly as possible to rescue Frumgar the Easterling from the prison, even if 
+you have to sacrifice your main army to the Balrog in order to do so.  He has a 
+powerful army geared towards a specific strategy; the “Dragageddon.”  In my 
+first game, the flying Earnur freed him, but then he couldn’t move out of his 
+little area, so he just sat there forever waiting for me to come open up the 
+garrison or the barriers. Having him in your arsenal may be all you need to take 
+out Minas Anor.  Finally, don’t try to hunt down the red heroes; you only need 
+to capture Minas Anor to win.  Avoid all the red battles you can, and head 
+straight for the castle, and hope you have enough to take it!
+
+Raolin the Heretic

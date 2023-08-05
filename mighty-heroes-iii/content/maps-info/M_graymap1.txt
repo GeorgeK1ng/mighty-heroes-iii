@@ -1,0 +1,14 @@
+14.04.99 года. Погибшим сербам посвящается:
+
+Name of map: Absorbing War (Увлекательная Война).
+Difficulty Expert. Size Middle. Players 5/4HС/1C.
+Victory conditions :Defeat all enemies.
+Tested - YES. Palayable - YES. Testers : 
+Aleksey Krioutchkov <graymage@ag.ru> (Russia)
+creator :Gray Mage (Russia)
+email :graymage@ag.ru
+fido mail :2:5020/1089.114@fodonet.org
+home page :http://www.ag.ru/graymage/ - 
+ - (best turn based strategy site in Russia)
+
+Так-так! Вот и релиз. Это версия 1.0...

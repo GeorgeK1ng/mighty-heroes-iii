@@ -1,0 +1,15 @@
+Kartenname: Heiliger Boden
+DOS-Name: Hlgboden.h3m
+Hersteller: Björn Menne
+E-mail: b.menne@ndh.net
+Größe: Mittel
+Unterwelt: ja
+Spieler: 1 Mensch, 3 Computer
+Spezial: Vernichtung eines Helden									
+Schwierigkeit: schwer
+Beschreibung: Im Land Impietas, der Ruhestätte vieler vergangener Helden, ist der
+		Frieden früherer Tage vorbei. Die Mächte des Bösen beginnen zu erstarken.
+		Es ist an Euch, dem Reich der Unterwelt einhalt zu gebieten.
+Getestet von
+	Name: Vandura	
+	E-mail: uzs5s9@uni-bonn.de

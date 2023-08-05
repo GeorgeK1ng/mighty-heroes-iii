@@ -1,0 +1,22 @@
+Hour of the Dragon
+
+Hour of the Dragon is a medium map best used for the Rampart, Dungeon and Necromancer towns.
+
+The map is set up for the human players to start cattycorner from each other. The natural match-ups by terrain are Rampart(purple) vs. Dungeon(green) and Necromancer(orange) vs. Necromancer(pink). Rampart should be on the left side (purple or orange)vs. Necromancer, Dungeon on the right(green or pink) vs. Necromancer; which corners depend on who should get a little handicap. Rampart vs. Rampart or Dungeon vs. Dungeon are probably most fair as orange and pink, giving neither side their natural start or underground garrison dragons.
+At the 130% (rook) difficulty, the Necromancer can get all his creature buildings in the 1st week without breaking a sweat, while the Rampart and Dungeon will almost always get theirs also, albeit short on gold. The computer opponents adjacent to the players offer just a bit of challenge in the beginning and can be wiped out within 2-3 weeks. The solo variations make it about as easy as possible for the main computer opponent to develop, and gives them a strong hero to start. Any resemblance they have to intelligent players is a coincidence, however.
+
+The Border Guards guide the flow of the game. You can always try another approach. 
+
+The Gold and Diamond Golems in the center area will always join. Most other significant creature groups will never join.
+
+The Grail is always in the middle underground.
+
+All spells are possible in the castles.
+
+Please keep all the maps together along with this text file if you upload it anywhere else.
+
+The novel "Hour of the Dragon" was written in 1935 by Robert E. Howard and is the only full-length novel featuring Conan. In it he plays a king overcome by the dark magic of Xaltotun, the Re-Animated Stygian Sorcerer(really a Necromancer in the HOMM3 world) and the evil lords from Nemedia. He is put in prison but escapes shortly to fight a gray ape (Ancient Behemoth is closest in HOMM3). He journeys to find the artifact (Grail) that can destroy Xaltotun. After many adventures he defeats his enemies in a massive battle where the powerful magic used to defeat him earlier is crushed and Conan as the great warrior king prevails. It's not a bad read and it's a shame that Robert E. Howard committed suicide in 1936. The map "Hour of the Dragon" can only loosely be related to the novel. There were no dragons in the novel, e.g., but it's still fun to put a little twist to the fantasy world of HOMM3.
+
+I welcome comments. Email to datarush@attitude.com.
+
+Walt Huber a.k.a. Lbytes & Datarush

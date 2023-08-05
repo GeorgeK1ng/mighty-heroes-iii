@@ -1,0 +1,11 @@
+===================== BOG´s DRAGONCAVE =======================
+
+Kartenname:	Kampf der Titanen
+Autor:		Ralf Riedelsdorf (Ralf.Riedelsdorf@t-online.de)
+Größe:		L
+Unterwelt:	J
+Schwierigkeit:	Schwer
+Spieler:	4HC
+Kooperation:	-
+Gewinn:		Vernichtung aller Helden und Burgen
+Verlust:	Verlust aller Helden und Burgen

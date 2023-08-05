@@ -1,0 +1,12 @@
+The Isles v1.0
+A map by Andrew321 (awelling@bcn.net)
+Large sized map with no underground
+1 human player (red) & 1 computer players (blue) OR 2 human players (red,blue)
+Special victory condition: transport The Grail to Center Isle
+Special loss condition: NONE
+Difficulty level: Normal
+Scenario description: The King of all the isles has past away. As his former Arch-Bishop your job is to travel to each isle and find the obelisk there. Once you have the grail, bring it to the Central Isles's town. Beware the other Arch-Bishop has been put to the same task. You must find the grail before him!!
+Other playtesters: Matt Wellington
+Have fun and send me your comments,
+
+Andrew321

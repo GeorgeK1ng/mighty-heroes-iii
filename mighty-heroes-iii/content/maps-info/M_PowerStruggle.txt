@@ -1,0 +1,11 @@
+Name: Power Struggle (couldnt think of anything better)
+Map Size: 107*107
+Difficulty: Normal
+Type: Single Player/Multiplayer
+# Players: 5
+
+Description: Got the basic idea for this map from the map that was in the heroes2 demo.  It's not a carbon copy tho, just a similar look.
+
+Feel free to post this map anywhere.
+
+Skates
