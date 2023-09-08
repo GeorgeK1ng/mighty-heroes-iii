@@ -5,7 +5,7 @@
 	"author" : "cdv Software Entertainment",
 	"contact" : "",
 	"modType" : "Maps",
-	"size" : 15.1,
+	"downloadSize" : 15.1,
 	"compatibility" :
 	{
 		"min" : "1.4.0"
