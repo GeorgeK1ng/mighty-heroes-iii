@@ -1,7 +1,7 @@
 {	
 	"name" : "Mighty Heroes III",
-	"description" : "Mighty Heroes III is a inofficial map pack for HoMM3 sold in germany. It contains over 350 maps (english & german). The quality of the maps varies.",
-	"version" : "1.0.1",
+	"description" : "Mighty Heroes III is a unofficial map pack for HoMM3 sold in germany. It contains over 350 maps (english & german). The quality of the maps varies.",
+	"version" : "1.0.2",
 	"author" : "cdv Software Entertainment",
 	"contact" : "",
 	"modType" : "Maps",
@@ -12,11 +12,64 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.2" : [ "Various translations by George King using translator tool from Heroes Launcher" ],
 		"1.0.1" : [ "Use subfolder" ],
 		"1.0.0" : [ "Initial release based on http://heroescommunity.com/viewthread.php3?TID=41389" ]
 	},
 	"german" : {
 		"name" : "Mighty Heroes III",
-		"description" : "Mighty Heroes III ist ein inoffizielles Kartenpaket für HoMM3, welches in Deutschland verkauft wurde. Es enthält über 350 Karten (englisch und deutsch). Die Qualität der Karten ist unterschiedlich."	
-	}
+		"description" : "Mighty Heroes III ist ein inoffizielles Kartenpaket für HoMM3, welches in Deutschland verkauft wurde. Es enthält über 350 Karten (englisch und deutsch). Die Qualität der Karten ist unterschiedlich.",
+		"translations" : [
+			"translation/mighty-heroes-iii/german.json"
+		]
+	},
+    "czech" : {
+		"name": "Mighty Heroes III",
+		"description": "Mighty Heroes III je neoficiální balíček map pro Heroes 3 prodávaný v Německu. Obsahuje přes 350 map. Kvalita map je různorodá. Všechny mapy byly přeloženy pouze pomocí Google překladače v Heroes Launcheru, jakékoli vylepšení textu je vítáno!",
+		"translations" : [
+			"translation/mighty-heroes-iii/czech.json"
+		]
+    },
+    "polish" : {
+		"name": "Mighty Heroes III",
+		"description": "Mighty Heroes III to nieoficjalny pakiet map do Heroes 3 sprzedawany w Niemczech. Zawiera ponad 350 map. Jakość map jest różna. Wszystkie mapy zostały przetłumaczone wyłącznie przy użyciu Tłumacza Google w Heroes Launcher, wszelkie ulepszenia tekstu są mile widziane !",
+		"translations" : [
+			"translation/mighty-heroes-iii/polish.json"
+		]
+    },
+    "english" : {
+		"name": "Mighty Heroes III",
+		"description": "Mighty Heroes III is an unofficial map pack for Heroes 3 sold in Germany. It contains over 350 maps. The quality of the maps varies. All maps were only translated using Google Translate in Heroes Launcher, any text improvements are welcome!",
+		"translations" : [
+			"translation/mighty-heroes-iii/english.json"
+		]
+    },
+    "russian" : {
+		"name": "Могучие герои III",
+		"description": "Mighty Heroes III — это неофициальный пакет карт для Heroes 3, продаваемый в Германии. Он содержит более 350 карт. Качество карт варьируется. Все карты были переведены только с помощью Google Translate в Heroes Launcher, любые улучшения текста приветствуются. !",
+		"translations" : [
+			"translation/mighty-heroes-iii/russian.json"
+		]
+    },
+    "ukrainian" : {
+		"name": "Могутні герої III",
+		"description": "Mighty Heroes III — це неофіційний набір карт для Heroes 3, який продається в Німеччині. Він містить понад 350 карт. Якість карт різна. Усі карти було перекладено лише за допомогою Google Translate у Heroes Launcher, будь-які текстові покращення вітаються !",
+		"translations" : [
+			"translation/mighty-heroes-iii/ukrainian.json"
+		]
+    },
+    "chinese" : {
+		"name" : "英雄无敌III",
+		"description": "Mighty Heroes III 是在德国销售的英雄 3 的非官方地图包。它包含超过 350 张地图。地图的质量各不相同。所有地图仅使用英雄启动器中的 Google 翻译进行翻译，欢迎任何文本改进！",
+		"translations" : [
+			"translation/mighty-heroes-iii/chinese.json"
+		]
+    },
+    "hungarian" : {
+		"name": "Mighty Heroes III",
+		"description": "A Mighty Heroes III egy nem hivatalos térképcsomag a Németországban értékesített Heroes 3-hoz. Több mint 350 térképet tartalmaz. A térképek minősége változó. Minden térképet csak a Google Fordítóval fordítottak le a Heroes Launcherben, bármilyen szöveges javítást szívesen látunk !",
+		"translations" : [
+			"translation/mighty-heroes-iii/hungarian.json"
+		]
+    }
 }
